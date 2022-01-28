@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+- 😄 Pronouns: Richard
 - 🔭 I’m currently working on ML projects on finance studies
-- 🌱 I’m currently learning Computer Vision, Data Engineering, WebDev
+- 🌱 I’m currently learning Computer Vision, Data Engineering, WebDev. I am trying to read one book per week in 2022!
 - 👯 I’m looking to collaborate on ML and asset pricing studies
 - 🤔 I’m looking for help with Computer Vision (crying)
 - 💬 Ask me about anything about ML or asset pricing (I am addicted to these two in 2022)
 - 📫 How to reach me: my [email](mailto:buidiengiau@gmail.com)
-- 😄 Pronouns: Richard
 - ⚡ Fun fact: I have a 2yo baby!
 
 
