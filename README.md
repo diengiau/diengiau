@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Computer Vision (crying)
 - 💬 Ask me about anything about ML or finance (I am addicted to these two)
 - 📫 How to reach me: my [email](mailto:buidiengiau@gmail.com)
-- ⚡ Fun fact: I have a 2yo baby!
+- ⚡ Fun fact: guess!
 
 
 ## 🌐Socials
